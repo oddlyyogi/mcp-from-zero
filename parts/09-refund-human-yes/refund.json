@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "id": 1, "method": "tools/call", "params": {"name": "start_refund", "arguments": {"order_id": 1042, "amount": 28.0, "reason": "socks wrong size"}, "_meta": {"io.modelcontextprotocol/protocolVersion": "2026-07-28", "io.modelcontextprotocol/clientCapabilities": {"elicitation": {}}}}}
